@@ -25,5 +25,7 @@ namespace ICE_Task_3_shape_Area_Calculator_Git
         {
             Console.WriteLine($"Area of Circle: {CalculateArea()}");
         }
+
+        bleh
     }
 }
