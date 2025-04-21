@@ -11,6 +11,8 @@
             c.Display();
 
             Console.ReadKey();
+
+            Console.WriteLine("Hello World");
         }
     }
 }
